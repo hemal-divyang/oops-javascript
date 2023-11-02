@@ -11,4 +11,4 @@ const circle = {
 }
 // object property can be access by dot notation
 circle.draw();
-circle.radius
+circle.radius;
