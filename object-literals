@@ -9,3 +9,6 @@ const circle = {
     console.log('draw')
   }
 }
+// object property can be access by dot notation
+circle.draw();
+circle.radius
